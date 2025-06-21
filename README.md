@@ -16,6 +16,6 @@ This is a simple and clean personal portfolio website built using **HTML** and *
 
 ## Live Preview
 
-\[Add your live site link here if hosted, e.g., GitHub Pages or Netlify]
+https://msangee4.github.io/Simple-Portfolio-Website/
 
 Thank You For Visiting my Portfolio Website!
